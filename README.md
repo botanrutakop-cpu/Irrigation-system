@@ -19,7 +19,7 @@ This is officially my **very first project combining coding and electronics**! I
 1. Clone or download this project to your computer.
 2. Install the required serial package by opening your terminal and typing:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt (pyserial>=3.5)
    ```
 3. Connect your Arduino to your computer via USB (make sure the path on line 8 of `irrigation_logger.py` matches your port, like `/dev/ttyUSB0` or `COM3`).
 4. Start the logger script:

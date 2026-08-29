@@ -1,5 +1,4 @@
-# Irrigation-system
-a small project i made for fun and experience  :)
+
 # This is my first IoT project: Smart Irrigation Logger
 
 This is officially my **very first project combining coding and electronics**! I built a **Python** script that communicates with an **Arduino** via USB to read, calculate, and save live soil moisture data.
